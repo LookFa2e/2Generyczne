@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\.Projekty C#\2Generyczne\bin\Debug\net7.0\2Generyczne.exe
+C:\Users\Administrator\Documents\.Projekty C#\2Generyczne\bin\Debug\net7.0\2Generyczne.deps.json
+C:\Users\Administrator\Documents\.Projekty C#\2Generyczne\bin\Debug\net7.0\2Generyczne.runtimeconfig.json
+C:\Users\Administrator\Documents\.Projekty C#\2Generyczne\bin\Debug\net7.0\2Generyczne.dll
+C:\Users\Administrator\Documents\.Projekty C#\2Generyczne\bin\Debug\net7.0\2Generyczne.pdb
+C:\Users\Administrator\Documents\.Projekty C#\2Generyczne\obj\Debug\net7.0\2Generyczne.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\.Projekty C#\2Generyczne\obj\Debug\net7.0\2Generyczne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\.Projekty C#\2Generyczne\obj\Debug\net7.0\2Generyczne.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\.Projekty C#\2Generyczne\obj\Debug\net7.0\2Generyczne.AssemblyInfo.cs
+C:\Users\Administrator\Documents\.Projekty C#\2Generyczne\obj\Debug\net7.0\2Generyczne.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\.Projekty C#\2Generyczne\obj\Debug\net7.0\2Generyczne.dll
+C:\Users\Administrator\Documents\.Projekty C#\2Generyczne\obj\Debug\net7.0\refint\2Generyczne.dll
+C:\Users\Administrator\Documents\.Projekty C#\2Generyczne\obj\Debug\net7.0\2Generyczne.pdb
+C:\Users\Administrator\Documents\.Projekty C#\2Generyczne\obj\Debug\net7.0\2Generyczne.genruntimeconfig.cache
+C:\Users\Administrator\Documents\.Projekty C#\2Generyczne\obj\Debug\net7.0\ref\2Generyczne.dll
